@@ -1,0 +1,6 @@
+# requirements.txt for patientcarechatbot
+# Detected dependencies from upload_fhir.py
+requests>=2.31.0
+
+# If you use a virtual environment, install with:
+# pip install -r requirements.txt
